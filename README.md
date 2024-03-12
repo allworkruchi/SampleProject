@@ -1,5 +1,3 @@
-# SampleProject
-
 # Test Project
 
 This is a test project for automating Gmail compose functionality using Selenium (Java) and TestNG.
